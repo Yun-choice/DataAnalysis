@@ -1,2 +1,2 @@
 # DataAnalize
-Jupiter Notebook
+Jupyter Notebook
