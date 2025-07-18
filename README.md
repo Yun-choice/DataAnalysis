@@ -1,3 +1,4 @@
 # Data Analysis
-### Python
-- Pandas
+## Skills
+  ### Python
+  - Pandas
