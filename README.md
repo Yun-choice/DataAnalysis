@@ -1,2 +1,2 @@
-# DataAnalize
+# Data Analysis
 Jupyter Notebook
